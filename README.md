@@ -1,0 +1,1 @@
+这是一个简单的html文件，里面通过js重定向，把qq.electroboy.cn重定向到电击小子QQ群的rul，欢迎加入电击小子交流群。
